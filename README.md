@@ -20,5 +20,5 @@
      <a href = "mailto:rafaelsfigueiredo14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/rafael-figueiredo-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-  ![](https://github.com/devraff/devraff/raw/output/github-contribution-grid-snake.svg)
+ [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
 </div>
